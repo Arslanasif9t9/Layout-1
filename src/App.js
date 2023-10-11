@@ -1,9 +1,6 @@
 import './App.css';
 import layout_img from './img/layout -1.svg'
 import countryFlag from './img/kuwait flag 1.svg'
-import Background from './img/Background 1.svg'
-import side from './img/Picture2 1.svg'
-import btn from './img/Rectangle 2.svg'
 
 function App() {
   var gradient = 'linear-gradient(91deg, #4D1E4C -0.89%, #902B78 68.07%, #A4276C 102.55%)';
